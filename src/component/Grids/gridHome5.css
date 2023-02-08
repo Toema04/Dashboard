@@ -1,0 +1,27 @@
+.box2 {
+	border-radius: 8px !important;
+	border: none;
+}
+
+.box3 {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 1rem;
+	margin-bottom: 20px;
+}
+
+.img {
+	width: 100px;
+	padding-left: 10px;
+	border-radius: 15px 7px 7px 16px;
+}
+
+.text {
+	border-radius: 6px !important;
+}
+
+.line4 {
+	border: 0.5px solid #ededede8;
+	margin: 0 20px 10px 20px;
+}

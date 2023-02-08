@@ -1,0 +1,25 @@
+.h2 {
+	text-align: center;
+	margin: 20px 0 10px;
+}
+
+.line {
+	background-color: black;
+	width: 70px;
+	height: 2px;
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+}
+.line::before {
+	content: "";
+	position: absolute;
+	width: 15px;
+	height: 15px;
+	background: black;
+	border-radius: 50%;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 1;
+}

@@ -1,13 +1,7 @@
-/* body {
-	background-image: url("https://media.istockphoto.com/vectors/big-red-planet-with-craters-mars-vector-illustration-space-background-vector-id942602290?k=20&m=942602290&s=612x612&w=0&h=T16RZpuFg11qG_orZAyaT9Rw3XKgSuQ8wsnFo9WDcDA=");
-	height: 100vh;
-	width: 100%;
-	object-fit: cover;
-	background-size: cover;
-	background-repeat: no-repeat;
-} 
-/* background-position: fixed; */
+::-webkit-scrollbar-track {
+	background-color: white;
+}
 
-.section {
-	height: 100vh;
+::-webkit-scrollbar-thumb {
+	background-color: #0075ff;
 }

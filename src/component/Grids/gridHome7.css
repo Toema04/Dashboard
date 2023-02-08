@@ -1,0 +1,14 @@
+.box8 {
+	border-radius: 8px !important;
+}
+
+.Typographybtn {
+	width: 43px;
+	height: 30px;
+	border-radius: 6px !important;
+	font-size: 14px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: #e1e1e1;
+}

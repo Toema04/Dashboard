@@ -1,0 +1,44 @@
+.box7 {
+	border-radius: 8px !important;
+	border: none;
+}
+
+.boxCon {
+	margin-top: 17px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 10px 0 10px;
+}
+
+.muiIcon:hover {
+	cursor: pointer;
+	color: red !important;
+	transition: all 0.2s ease;
+}
+
+.line5 {
+	border-bottom: 1px solid #ededede8;
+	margin: 13px 20px 0px 20px;
+}
+
+/* Start disapled box 4 */
+
+.TypographyDis {
+	color: #8080808a;
+	text-decoration: line-through;
+}
+
+.TypographyDis2 {
+	text-decoration: line-through;
+	color: #c3b9b9e6;
+}
+
+.muiIcon2:hover {
+	background-color: transparent;
+}
+
+.muiIcon2 {
+	color: #8080808a;
+}
+/* End disapled box 4 */

@@ -1,0 +1,65 @@
+.box14 {
+	border-radius: 8px !important;
+}
+
+table {
+	width: 100%;
+	border-spacing: 0;
+	min-width: 1000px;
+}
+
+td {
+	font-size: 15px;
+	font-weight: bold;
+	padding: 15px;
+	background-color: #eee;
+}
+
+.td2 {
+	background-color: white !important;
+	border-bottom: 1px solid #eee;
+	border-left: 1px solid #eee;
+	transition: 0.3s;
+}
+
+.td2:last-child {
+	border-right: 1px solid #eee;
+}
+
+.imgtwo {
+	width: 32px;
+	height: 32px;
+	border-radius: 50%;
+	padding: 2px;
+	background-color: white;
+	margin: -9px;
+}
+
+.button-1 {
+	font-size: 15px;
+	padding: 4px 10px;
+	border-radius: 6px !important;
+	background-color: #f59e0b;
+	border: none;
+	color: white;
+}
+
+.button-1.two {
+	background-color: #0d69d5;
+}
+
+.button-1.three {
+	background-color: #22c55e;
+}
+
+.button-1.four {
+	background-color: #22c55e;
+}
+
+.button-1.five {
+	background-color: #f44336;
+}
+
+.button-1.sex {
+	background-color: #22c55e;
+}

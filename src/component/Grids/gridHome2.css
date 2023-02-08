@@ -1,0 +1,19 @@
+.input2 {
+	margin: 20px 10px 10px 0;
+	width: 94%;
+	background-color: #eee;
+}
+.input3 {
+	margin: 15px 10px 10px 0px;
+	width: 94%;
+	min-height: 160px;
+	background-color: #eee;
+	border: none;
+	border-radius: 10px;
+	padding: 10px;
+	outline: none;
+}
+
+.grid2 {
+	border-radius: 9px !important;
+}

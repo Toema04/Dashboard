@@ -1,0 +1,61 @@
+.box11 {
+	border-radius: 8px !important;
+}
+
+.ul2 {
+	padding: 0;
+	list-style: none;
+	margin-top: 10px;
+}
+
+.li2 {
+	display: flex;
+	align-items: center;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.cycle {
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+	background-color: #0075ff;
+	margin-right: 15px;
+}
+
+.div {
+	border-left: 2px solid #0075ff;
+	padding-left: 18px;
+}
+
+.p {
+	margin-bottom: 5px;
+}
+
+.spanCloco {
+	font-size: 13px;
+	color: grey;
+}
+
+.cycle.two {
+	background-color: #22c55e;
+}
+
+.div.two {
+	border-left: 2px solid #22c55e;
+}
+
+.cycle.three {
+	background-color: #f59e0b;
+}
+.div.three {
+	border-left: 2px solid #f59e0b;
+}
+
+.cycle.four {
+	background-color: #f44336;
+}
+
+.div.four {
+	border-left: 2px solid #f44336;
+}

@@ -1,0 +1,13 @@
+.box6 {
+	display: flex;
+	align-items: center;
+	border: 1px solid grey;
+	border-radius: 7px;
+}
+
+input {
+	padding: 7px 10px;
+	border-radius: 5px;
+	outline: none;
+	border: none;
+}

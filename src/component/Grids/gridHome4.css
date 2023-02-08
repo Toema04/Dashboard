@@ -1,0 +1,20 @@
+.mainBox {
+	background-color: white;
+	border-radius: 8px !important;
+}
+.box {
+	display: flex;
+	place-items: center center;
+	/* align-items: center; */
+	flex-direction: column;
+	margin-left: 0 !important;
+	text-align: center;
+	border: 1px solid rgba(128, 128, 128, 0.438);
+	width: 13rem;
+	height: 9rem;
+	border-radius: 5px;
+}
+
+.box1 {
+	margin-top: 25px;
+}
