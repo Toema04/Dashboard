@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SeifPorfolio/static/css/main.70bb7a3d.css",
+    "main.js": "/SeifPorfolio/static/js/main.3f8f4ee7.js",
+    "index.html": "/SeifPorfolio/index.html",
+    "main.70bb7a3d.css.map": "/SeifPorfolio/static/css/main.70bb7a3d.css.map",
+    "main.3f8f4ee7.js.map": "/SeifPorfolio/static/js/main.3f8f4ee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70bb7a3d.css",
+    "static/js/main.3f8f4ee7.js"
+  ]
+}
