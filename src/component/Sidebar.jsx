@@ -2,7 +2,6 @@ import {
 	AccountCircle,
 	CropLandscape,
 	Dashboard,
-	Home,
 	InsertDriveFile,
 	PersonPin,
 	School,
@@ -31,14 +30,6 @@ const Sidebar = () => {
 				<h2 className="h2">Teima</h2>
 				<div className="line"></div>
 				<List sx={{ marginTop: "30px" }}>
-					<ListItem disablePadding>
-						<ListItemButton>
-							<ListItemIcon>
-								<Home />
-							</ListItemIcon>
-							<ListItemText primary="HomePage" />
-						</ListItemButton>
-					</ListItem>
 					<ListItem disablePadding>
 						<ListItemButton>
 							<ListItemIcon>
