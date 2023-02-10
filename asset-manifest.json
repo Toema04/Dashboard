@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/SeifPorfolio/static/css/main.70bb7a3d.css",
-    "main.js": "/SeifPorfolio/static/js/main.3f8f4ee7.js",
-    "index.html": "/SeifPorfolio/index.html",
-    "main.70bb7a3d.css.map": "/SeifPorfolio/static/css/main.70bb7a3d.css.map",
-    "main.3f8f4ee7.js.map": "/SeifPorfolio/static/js/main.3f8f4ee7.js.map"
+    "main.css": "/Dashboard/static/css/main.70bb7a3d.css",
+    "main.js": "/Dashboard/static/js/main.3f8f4ee7.js",
+    "index.html": "/Dashboard/index.html",
+    "main.70bb7a3d.css.map": "/Dashboard/static/css/main.70bb7a3d.css.map",
+    "main.3f8f4ee7.js.map": "/Dashboard/static/js/main.3f8f4ee7.js.map"
   },
   "entrypoints": [
     "static/css/main.70bb7a3d.css",
